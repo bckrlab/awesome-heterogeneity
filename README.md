@@ -36,3 +36,9 @@ This heterogenity can be discovered in 3 axese:
 | ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- | ------------- |
 | 2023 |Causal Discovery from Temporal Data: An Overview and New Perspectives              | [Link](http://arxiv.org/abs/2303.10112)             ||Components + time
 
+
+## Vertical axis
+| Year | Title | Paper | Code | Category |
+| ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- | ------------- |
+| 2023 |Causal Discovery from Temporal Data: An Overview and New Perspectives              | [Link](http://arxiv.org/abs/2303.10112)             ||Components + time
+
