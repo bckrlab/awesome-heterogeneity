@@ -32,9 +32,9 @@ This heterogenity can be discovered in 3 axese:
 
 
 ## Horizontal axis
-| Year | Title | Paper | Code | Category |
-| ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- | ------------- |
-| 2023 |Causal Discovery from Temporal Data: An Overview and New Perspectives              | [Link](http://arxiv.org/abs/2303.10112)             ||Components + time
+| Year | Title | Paper | Code | Category |Description|
+| ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- | ------------- | -----|
+| 2022 |Discovery of Extended Summary Graphs in Time Series              | [Link](https://proceedings.mlr.press/v180/assaad22a.html)             ||Components + time | Constraint Based Causal graph
 
 
 ## Vertical axis
