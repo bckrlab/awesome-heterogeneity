@@ -42,7 +42,10 @@ This heterogenity can be discovered in 3 axese:
 
 
 ## Vertical axis
-| Year | Title | Paper | Code | Category |
-| ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- | ------------- |
-| 2023 |Causal Discovery from Temporal Data: An Overview and New Perspectives              | [Link](http://arxiv.org/abs/2303.10112)| [Code](https://github.com/ckassaad/PCGCE) |Components + time
+| Year | Title | Paper | Code | Category |Description|
+| ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- | ------------- | ----|
+| 2022 |Causal Interaction Trees: Finding Subgroups with Heterogeneous Treatment Effects in Observational Data             | [Link](https://academic.oup.com/biometrics/article/78/2/624/7460035?login=true)| [Code](https://github.com/jiabei-yang/CIT) |Components + Subgroups| Causal Interaction Trees
+| 2022 |Unsupervised machine learning for the discovery of latent disease clusters and patient subgroups using electronic health records             | [Link](https://www.sciencedirect.com/science/article/pii/S1532046419302849)| |Components + Subgroups| Poisson Dirichlet Model 
+
+
 
