@@ -34,11 +34,15 @@ This heterogenity can be discovered in 3 axese:
 ## Horizontal axis
 | Year | Title | Paper | Code | Category |Description|
 | ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- | ------------- | -----|
-| 2022 |Discovery of Extended Summary Graphs in Time Series              | [Link](https://proceedings.mlr.press/v180/assaad22a.html)             ||Components + time | Constraint Based Causal graph
+| 2022 |Discovery of Extended Summary Graphs in Time Series              | [Link](https://proceedings.mlr.press/v180/assaad22a.html)             |[Code](https://github.com/ckassaad/PCGCE)|Components + time | Constraint Based Causal graph
+| 2020 |Discovering contemporaneous and lagged causal relations in autocorrelated nonlinear time series datasets              | [Link](https://proceedings.mlr.press/v124/runge20a.html)             |[Code](https://github.com/jakobrunge/tigramite)|Components + time | Constraint Based Causal graph
+| 2021 |High-recall causal discovery for autocorrelated time series with latent confounders              | [Link](https://arxiv.org/abs/2007.01884)             |[Code](https://github.com/jakobrunge/tigramite)|Components + time | Constraint Based Causal graph without sufficiency assumption
+| 2020 |DYNOTEARS: Structure Learning from Time-Series Data              | [Link](https://arxiv.org/abs/2002.00498)             |[Code](https://github.com/ckassaad/causal_discovery_for_time_series)|Components + time | Score Based (Continuous Optimization) Causal graph
+
 
 
 ## Vertical axis
 | Year | Title | Paper | Code | Category |
 | ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- | ------------- |
-| 2023 |Causal Discovery from Temporal Data: An Overview and New Perspectives              | [Link](http://arxiv.org/abs/2303.10112)             ||Components + time
+| 2023 |Causal Discovery from Temporal Data: An Overview and New Perspectives              | [Link](http://arxiv.org/abs/2303.10112)| [Code](https://github.com/ckassaad/PCGCE) |Components + time
 
